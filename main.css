@@ -1,9 +1,15 @@
 html {
-    font-size: smaller;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    
 }
 
 body {
-    background-color:darkslategrey;
-    color: azure;
+    background-color:rgb(250, 248, 246);
+    color: rgb(1, 27, 27);
+       
+     
 
 }
